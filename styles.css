@@ -146,18 +146,13 @@ a {
   color: var(--text-white);
   text-decoration: none;
   font-weight: 600;
-  display: flex;
-  align-items: center;
-  gap: 0.75rem;
 }
 
-.nav-logo-img {
-  height: 36px;
+.hero-logo {
+  display: block;
+  height: 120px;
   width: auto;
-}
-
-.navbar.scrolled .nav-logo-img {
-  height: 30px;
+  margin: 0 auto 2rem;
 }
 
 .nav-links {
