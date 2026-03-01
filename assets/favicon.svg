@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <g fill="#c9a96e">
+    <!-- Letter M - Playfair-style elegant serif -->
+    <!-- Left stem -->
+    <rect x="2" y="8" width="1.8" height="18" rx="0.1"/>
+    <!-- Right stem -->
+    <rect x="15.5" y="8" width="1.8" height="18" rx="0.1"/>
+    <!-- Left diagonal -->
+    <polygon points="2.9,8 10.5,22 9.3,22 1.7,8"/>
+    <!-- Right diagonal -->
+    <polygon points="16.3,8 9.5,22 10.7,22 17.5,8"/>
+    <!-- Top serifs M -->
+    <rect x="0.5" y="7" width="5" height="1.2" rx="0.2"/>
+    <rect x="14" y="7" width="5" height="1.2" rx="0.2"/>
+    <!-- Bottom serifs M -->
+    <rect x="0.5" y="25.5" width="5" height="1.2" rx="0.2"/>
+    <rect x="14" y="25.5" width="5" height="1.2" rx="0.2"/>
+    <!-- Letter I - Playfair-style elegant serif -->
+    <!-- Stem -->
+    <rect x="24.6" y="8" width="1.8" height="18" rx="0.1"/>
+    <!-- Top serif -->
+    <rect x="22" y="7" width="7" height="1.2" rx="0.2"/>
+    <!-- Bottom serif -->
+    <rect x="22" y="25.5" width="7" height="1.2" rx="0.2"/>
+  </g>
+</svg>

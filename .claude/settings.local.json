@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.maghreb-investments.com)",
+      "WebSearch",
+      "WebFetch(domain:find-and-update.company-information.service.gov.uk)",
+      "WebFetch(domain:webcache.googleusercontent.com)",
+      "WebFetch(domain:web.archive.org)",
+      "WebFetch(domain:www.pfimmobilien.ch)",
+      "WebFetch(domain:www.moneyhouse.ch)",
+      "Bash(python3:*)",
+      "Bash(py:*)",
+      "Bash(python:*)"
+    ]
+  }
+}
